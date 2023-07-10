@@ -1,0 +1,16 @@
+#hud-container {
+    position: absolute;
+    top: 20px;
+    right: 75px;
+    padding: 10px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.hud-element {
+    margin-bottom: 5px;
+}
+
+.hud-element span {
+    font-weight: bold;
+}
